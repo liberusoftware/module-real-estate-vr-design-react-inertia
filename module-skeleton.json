@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-vr-design-react-inertia",
+  "capabilityKey": "liberusoftware/real-estate-vr-design",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-real-estate-vr-design-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/real-estate/nextjs/real-estate-vr-design.md",
+  "presentationPlan": "projects/real-estate/react/real-estate-vr-design.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
